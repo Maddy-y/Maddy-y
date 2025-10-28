@@ -1,16 +1,54 @@
-## Hi there 👋
+# 🧠 Maddy-y
 
-<!--
-**Maddy-y/Maddy-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MSc Student · Artificial Intelligence & Engineering Systems  
+**Interests:** Machine Learning · Signal Processing · Adaptive Systems · Robotics Simulation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Technical Skills
+
+**Programming & Tools:**  
+`Python` · `Julia` · `NumPy` · `SciPy` · `Matplotlib` · `PyTorch`
+
+**Engineering Software:**  
+`NX CAD` · `Tecnomatix (Standalone Robotics Simulation)` · `AutoCAD` · `SolidWorks`
+
+**Areas of Interest:**  
+- AI for Engineering Systems  
+- Signal Processing and Filter Design  
+- Adaptive & Optimal Filtering  
+- Robotics Simulation and Digital Twins  
+- Data Analysis and Visualization  
+
+---
+
+## 🔍 Current Focus
+
+- Implementing **machine learning** workflows using PyTorch  
+- Exploring **adaptive filtering** methods in signal processing  
+- Learning **Julia** for scientific computing and numerical analysis  
+- Investigating **AI-driven simulation and optimization** in engineering contexts  
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maddy-y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maddy-y&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🧩 Contact
+
+📧 **Email:** [sunnymad1902@gmail.com](mailto:sunnymad1902@gmail.com)  
+🌐 **GitHub:** [github.com/Maddy-y](https://github.com/Maddy-y)
+
+---
+
+> *Focused on the intersection of intelligent algorithms and engineered systems.*
+
