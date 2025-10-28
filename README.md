@@ -8,9 +8,7 @@
 ## ⚙️ Technical Skills
 
 **Programming & Tools:**  
-
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/languages/python.svg" width="40" />
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![SciPy](https://img.shields.io/badge/scipy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
