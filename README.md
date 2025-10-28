@@ -1,4 +1,3 @@
-![banner](profile-header.png)
 <p align="center">
   <img src="profile-header.png" width="100%" alt="AI × Engineering Systems banner">
 </p>
