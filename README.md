@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-header.png" width="100%" alt="AI × Engineering Systems banner">
+  <img src="profile-header.png" width="65%" alt="AI × Engineering Systems banner">
 </p>
 
 # 🧠 Maddy-y
