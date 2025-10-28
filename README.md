@@ -1,7 +1,4 @@
 # 🧠 Maddy-y
-<p align="center">
-  <img src="profile-header.png" width="33.33%" alt="AI × Engineering Systems banner">
-</p>
 
 ### MSc Student · Artificial Intelligence & Engineering Systems  
 **Interests:** Machine Learning · Signal Processing · Adaptive Systems · Robotics Simulation
