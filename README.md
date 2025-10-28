@@ -1,5 +1,7 @@
 ![banner](profile-header.png)
-<p align="center"><b>AI × Engineering Systems — Exploring the intersection of intelligent algorithms and engineered precision.</b></p>
+<p align="center">
+  <img src="profile-header.png" width="100%" alt="AI × Engineering Systems banner">
+</p>
 
 # 🧠 Maddy-y
 
