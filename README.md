@@ -8,10 +8,17 @@
 ## ⚙️ Technical Skills
 
 **Programming & Tools:**  
-`Python` · `Julia` · `NumPy` · `SciPy` · `Matplotlib` · `PyTorch`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![SciPy](https://img.shields.io/badge/scipy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **Engineering Software:**  
-`NX CAD` · `Tecnomatix (Standalone Robotics Simulation)` · `AutoCAD` · `SolidWorks`
+![NX CAD](https://img.shields.io/badge/NX%20CAD-00579A?style=for-the-badge)
+![Tecnomatix](https://img.shields.io/badge/Tecnomatix-1196C6?style=for-the-badge)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E54120?style=for-the-badge&logo=autocad&logoColor=white)
 
 **Areas of Interest:**  
 - AI for Engineering Systems  
