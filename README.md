@@ -1,3 +1,6 @@
+![banner](profile-header.png)
+<p align="center"><b>AI × Engineering Systems — Exploring the intersection of intelligent algorithms and engineered precision.</b></p>
+
 # 🧠 Maddy-y
 
 ### MSc Student · Artificial Intelligence & Engineering Systems  
